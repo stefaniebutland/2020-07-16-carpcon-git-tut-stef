@@ -30,7 +30,7 @@ now `$ git log --oneline --graph --decorate --all` shows
 * 17e6cea (origin/master, origin/HEAD, master) start tut
 * b3042d3 Initial commit
 
-**[Daniel's FAQ with checklist](https://chendaniely.github.io/training_ds_r/help-faq.html)**
+**Use [Daniel's FAQ with checklist](https://chendaniely.github.io/training_ds_r/help-faq.html)**
 
 History:
 ```548  git commit -m "more branch notes"
