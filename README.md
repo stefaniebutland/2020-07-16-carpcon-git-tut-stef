@@ -9,9 +9,9 @@ Carpentry Con git workshop with Daniel Chen
 
 ## Branches
 `git branch`
-```* master
+* master
   my_first_branch
-```
+
 `git branch -a`
 * master
   my_first_branch
