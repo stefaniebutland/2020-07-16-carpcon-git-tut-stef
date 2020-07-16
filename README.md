@@ -9,9 +9,9 @@ Carpentry Con git workshop with Daniel Chen
 
 ## Branches
 `git branch`
-* master
+```* master
   my_first_branch
-
+```
 `git branch -a`
 * master
   my_first_branch
@@ -33,7 +33,7 @@ now `$ git log --oneline --graph --decorate --all` shows
 **[Daniel's FAQ with checklist](https://chendaniely.github.io/training_ds_r/help-faq.html)**
 
 History:
-548  git commit -m "more branch notes"
+```548  git commit -m "more branch notes"
 549  git push origin my_first_branch
 550  git branch
 551  git switch master
@@ -48,6 +48,7 @@ History:
 560  git log --oneline --graph --decorate --all
 561  git fetch --prune
 562  git log --oneline --graph --decorate --all
+```
 
 Exercise
 - create new branch
